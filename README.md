@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/glowup_logo.jpg" alt="GlowUp Pro Logo" width="200"/>
+![Glow Up](https://github.com/user-attachments/assets/47632bbb-14c4-43df-823b-e0a43f991d0a)
 
 # 🌟 GlowUp Pro: The Mystery of the Leaky Funnel  
 ### From Raw SQL to C-Suite Strategy: A Data-Driven E-Commerce Rescue Mission
@@ -114,7 +114,7 @@ Data alone doesn’t convince — **visual storytelling does**.
 
 ### 📸 Dashboard Preview
 
-![Dashboard Screenshot](./assets/dashboard.png)
+<img width="1164" height="636" alt="Screenshot 2026-03-18 184445" src="https://github.com/user-attachments/assets/fdd2da8f-0263-41d4-a1ce-7d2d254c4aec" />
 
 ---
 
