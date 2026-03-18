@@ -53,6 +53,8 @@ To find the leak, I went beyond dashboards and directly queried **120,000+ recor
 
 ### 🔍 1. Conversion Leak by Channel
 
+<img width="862" height="508" alt="Screenshot 2026-03-18 141628" src="https://github.com/user-attachments/assets/20995f2c-e0d3-491b-a6a1-38d3e8966f96" />
+
 - Social Ads: **High traffic, low conversion**
 - Email: **Low traffic, high conversion**
 
@@ -62,6 +64,9 @@ To find the leak, I went beyond dashboards and directly queried **120,000+ recor
 ---
 
 ### 💸 2. ROAS (Return on Ad Spend) Analysis
+
+<img width="1001" height="503" alt="Screenshot 2026-03-18 142152" src="https://github.com/user-attachments/assets/0f5e9809-ac6d-4504-a170-7a34772ec939" />
+
 
 ```sql
 SELECT 
@@ -82,6 +87,9 @@ ORDER BY ROAS ASC;
 ---
 
 ### 👥 3. Demographic & Logistics Friction
+
+<img width="697" height="630" alt="Screenshot 2026-03-18 142345" src="https://github.com/user-attachments/assets/8804bbd7-4348-42d6-9148-31b0d6bab1bc" />
+
 
 - Gen Z Females → **High conversion**
 - Male 45+ → **Very low conversion**
