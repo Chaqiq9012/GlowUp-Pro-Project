@@ -199,11 +199,7 @@ Data alone doesn’t convince — **visual storytelling does**.
 │
 ├── 📊 dashboard.pbix
 ├── 📜 sql_queries.sql
-├── 📁 data
-│   └── glowup_dataset.csv
-├── 📁 assets
-│   ├── dashboard.png
-│   └── glowup_logo.jpg
+├──  glowup_dataset.csv
 └── README.md
 ```
 
