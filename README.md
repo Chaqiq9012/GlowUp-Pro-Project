@@ -9,8 +9,7 @@
 
 ---
 
-## ⚠️ Data Usage & Permission
-> This project is based on a **simulated dataset (120,000+ rows)** designed to replicate real-world e-commerce behavior.  
+## ⚠️ Data Usage & Permission 
 > The dataset and business scenario were created **with full permission from the project owner for educational and portfolio use**.  
 > All insights, analysis, and strategies reflect **real business logic and industry practices**.
 
