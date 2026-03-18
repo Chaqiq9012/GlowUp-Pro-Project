@@ -131,6 +131,8 @@ Data alone doesn’t convince — **visual storytelling does**.
 
 ## 💡 The Solution: 15% Revenue Recovery Plan
 
+<img width="955" height="534" alt="image" src="https://github.com/user-attachments/assets/c2d74974-0cb5-4684-9753-5d061c075bf5" />
+
 ### 1️⃣ Cut the Fat
 - Reduce Social Ads spend by **40%**
 - Stop targeting low-performing segments
